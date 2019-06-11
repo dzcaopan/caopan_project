@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="Python 3.7" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="HttpRunner-master" />
+    <orderEntry type="module" module-name="unittest_htmltestrunner_master" />
+    <orderEntry type="module" module-name="creat_tools" />
+    <orderEntry type="module" module-name="ApiTestProject" />
+    <orderEntry type="module" module-name="http_json_excel" />
+    <orderEntry type="module" module-name="locust_test" />
+    <orderEntry type="module" module-name="locust_api" />
+    <orderEntry type="module" module-name="CloudRunner" />
+    <orderEntry type="module" module-name="robot-api" />
+    <orderEntry type="module" module-name="myRF" />
+    <orderEntry type="module" module-name="myRF" />
+  </component>
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+</module>

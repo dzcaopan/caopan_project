@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ApiTestProject/.idea/ApiTestProject.iml" filepath="$PROJECT_DIR$/../ApiTestProject/.idea/ApiTestProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../CloudRunner_Fast_new/.idea/CloudRunner.iml" filepath="$PROJECT_DIR$/../CloudRunner_Fast_new/.idea/CloudRunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../HttpRunner-master/.idea/HttpRunner-master.iml" filepath="$PROJECT_DIR$/../HttpRunner-master/.idea/HttpRunner-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/caopan_project.iml" filepath="$PROJECT_DIR$/.idea/caopan_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../creat_tools/.idea/creat_tools.iml" filepath="$PROJECT_DIR$/../creat_tools/.idea/creat_tools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../http_json_excel/.idea/http_json_excel.iml" filepath="$PROJECT_DIR$/../http_json_excel/.idea/http_json_excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../locust_api/.idea/locust_api.iml" filepath="$PROJECT_DIR$/../locust_api/.idea/locust_api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../locust_test/.idea/locust_test.iml" filepath="$PROJECT_DIR$/../locust_test/.idea/locust_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../myRF/.idea/myRF.iml" filepath="$PROJECT_DIR$/../myRF/.idea/myRF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../robot-api/.idea/robot-api.iml" filepath="$PROJECT_DIR$/../robot-api/.idea/robot-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_framework/.idea/unittest_htmltestrunner_master.iml" filepath="$PROJECT_DIR$/../test_framework/.idea/unittest_htmltestrunner_master.iml" />
+    </modules>
+  </component>
+</project>
